@@ -30,6 +30,14 @@
 
 `composer install`
 
+`php artisan migrate`
+
+`php artisan db:seed`
+
+`php artisan key:generate`
+
+`new .env`
+
 ### On Youtube
 
 Development: https://youtu.be/gaoqbUvMrBs
